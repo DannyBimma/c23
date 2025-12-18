@@ -22,9 +22,8 @@ int main() {
   printf("main: a = %d, b = %d\n", a, b);
   printf("main: a = %p, b = %p\n", &a, &b);
 
-  if (swapped(&a, &b)) {
+  if (swapped(&a, &b))
     printf("main: Swapped successfully!\n");
-  }
 
   return EXIT_SUCCESS;
 }
