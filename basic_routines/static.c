@@ -1,3 +1,11 @@
+/*
+ * Routine: A display of the static keyword in C23 and how it works.
+ *
+ * Author: DannyBimma
+ *
+ * Copyright (c) 2025 Technomancer Pirate Captain. All Rights Reserved.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
